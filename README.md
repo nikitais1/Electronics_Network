@@ -76,7 +76,6 @@ Content-Type: application/json
 * Фильтрация объектов по стране:
 
 ```http
-Копировать код
 GET /api/nodes/?country=Россия
 ```
 ### Права доступа
